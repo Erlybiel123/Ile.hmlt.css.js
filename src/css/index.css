@@ -130,6 +130,20 @@ aside {
             padding: 30px;
             
         }
+        .container-fluid-info-area
+        .container-fluid-info-area-p{
+            font-weight: 550;
+            letter-spacing: 1px;
+            
+        }
+        .container-fluid-button-info{
+           display: flex;
+           justify-content: center;
+           align-items: center;
+           margin-top: 2rem;
+           font-size: 20px;
+
+        }
 
 
 
